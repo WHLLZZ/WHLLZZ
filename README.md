@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WHLLZZ
+- 👀 I’m interested in Twitter feeds and bots
+- 🌱 I’m currently learning python coding
+- 💞️ 
